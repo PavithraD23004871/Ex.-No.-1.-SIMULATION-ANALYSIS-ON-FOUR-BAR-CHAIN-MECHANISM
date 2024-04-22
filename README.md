@@ -54,9 +54,10 @@
 
 ## Output:
 
+![image](https://github.com/PavithraD23004871/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138955967/e2d6733f-6a3e-4f98-8117-93347d29e3f9)
 
-### Name:
-### Register Number: 
+### Name:Pavithra D
+### Register Number: 212223230146
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
